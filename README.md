@@ -40,7 +40,7 @@ This modular design separates core ML and logic from the UI for clean, maintaina
 ## Installation & Usage
 
 1. Clone the repository  
-   `git clone <repo-url>`
+   `git clone https://github.com/Tejo0507/expense_study_helper.git`
 
 2. Install dependencies  
    `pip install -r requirements.txt`
