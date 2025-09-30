@@ -48,3 +48,7 @@ This modular design separates core ML and logic from the UI for clean, maintaina
 3. Run the app  
    `python -m streamlit run app/main.py`
 
+<img width="1863" height="1005" alt="image" src="https://github.com/user-attachments/assets/13d8c64a-1e81-473a-be34-6073076dee1a" />
+<img width="1826" height="992" alt="image" src="https://github.com/user-attachments/assets/a50f93b6-4ee7-40d4-be80-de67d93cb8e2" />
+<img width="1857" height="1007" alt="image" src="https://github.com/user-attachments/assets/37a37941-bb76-4fb6-9f63-f684eb49fa71" />
+<img width="1861" height="1001" alt="image" src="https://github.com/user-attachments/assets/ff8680c2-bc38-41ed-b2b1-dc68da6eb633" />
