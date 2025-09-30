@@ -1,6 +1,6 @@
 # Smart Expense Categorizer & Study Plan Generator
 
-This project is a Streamlit-based web app combining two intelligent modules designed to make daily life easier and more organized.
+This project is a Streamlit app using ML techniques like sentence embeddings and logistic regression for smart expense categorization and personalized study planning.
 
 ## Features
 
